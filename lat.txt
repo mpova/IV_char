@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Semiconductor project}
+\author{Mpova Mulahuko }
+\date{September 2024}
+
+\begin{document}
+
+\maketitle
+\section{Abstract}
+
+
+\section{Introduction}
+
+
+\end{document}y
